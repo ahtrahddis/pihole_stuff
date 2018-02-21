@@ -19,7 +19,7 @@ In order to install Pihole I did the following:
 `$ wget -O basic-install.sh https://install.pi-hole.net` <br>
 `$ bash basic-install.sh`
 
-After Pihole installation I downloaded an dmodified my adlists.list file:
+After Pihole installation I downloaded and modified my adlists.list file, enabling most of the extra sources:
 
 `$ wget https://raw.githubusercontent.com/archphile/pihole_stuff/master/adlists.list -O /etc/pihole/adlists.list`
 
