@@ -12,5 +12,5 @@
 # By default this script does nothing.
 echo ondemand | tee /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor >/dev/null
 echo 0 > /proc/sys/vm/swappiness
-echo sd > /sys/class/leds/blue\:heartbeat/trigger
+echo emmc > /sys/class/leds/blue\:heartbeat/trigger
 exit 0
