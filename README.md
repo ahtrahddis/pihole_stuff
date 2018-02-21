@@ -9,4 +9,5 @@ I am currently using:
 In order to install Pihole I did the following:
 
 wget -O basic-install.sh https://install.pi-hole.net
+
 bash basic-install.sh
