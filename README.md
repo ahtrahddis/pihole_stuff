@@ -8,6 +8,6 @@ I am currently using:
 
 In order to install Pihole I did the following:
 
-wget -O basic-install.sh https://install.pi-hole.net
+`$ wget -O basic-install.sh https://install.pi-hole.net`
+`$ bash basic-install.sh`
 
-bash basic-install.sh
