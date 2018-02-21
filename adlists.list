@@ -22,8 +22,37 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 https://hosts-file.net/ad_servers.txt
 
 ##----------------------------------------------------------------------------##
+##----------------------------------------------------------------------------##
+
+## Additional lists taken by:
+## https://wally3k.github.io
+## and
+## https://raw.githubusercontent.com/deathbybandaid/wally3k-adlists.list/master/adlists.list
+
+##----------------------------------------------------------------------------##
+## Suspicious lists:                                                          ##
+##
+
+# ✔ Grm
+#https://hosts-file.net/grm.txt
+
+# ✔ Minimal Hosts
+#https://reddestdream.github.io/Projects/MinimalHosts/etc/MinimalHostsBlocker/minimalhosts
+
+# ✔ KADhosts
+#https://raw.githubusercontent.com/StevenBlack/hosts/master/data/KADhosts/hosts
+
+# ✔ Add Spam
+#https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
+
+# ✔ W3kbl
+#https://v.firebog.net/hosts/static/w3kbl.txt
+
+
+##----------------------------------------------------------------------------##
 ## Advertising Lists:                                                         ##
 ##
+
 # ✔ AdAway
 #https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 
@@ -46,7 +75,8 @@ https://hosts-file.net/ad_servers.txt
 #https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
 
 ##----------------------------------------------------------------------------##
-## Tracking & Telemetry Lists:
+## Tracking & Telemetry Lists:                                                ##
+##
 
 # ✔ Airelle Trackers
 #http://v.firebog.net/hosts/Airelle-trc.txt
@@ -76,7 +106,8 @@ https://hosts-file.net/ad_servers.txt
 #http://v.firebog.net/hosts/static/SamsungSmart.txt
 
 ##----------------------------------------------------------------------------##
-## Malicious Lists:
+## Malicious Lists:                                                           ##
+##
 
 # ✔ Airelle High Risk
 #http://v.firebog.net/hosts/Airelle-hrsk.txt
