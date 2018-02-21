@@ -29,6 +29,7 @@ https://hosts-file.net/ad_servers.txt
 ## and
 ## https://raw.githubusercontent.com/deathbybandaid/wally3k-adlists.list/master/adlists.list
 
+
 ##----------------------------------------------------------------------------##
 ## Suspicious lists:                                                          ##
 ##
@@ -74,6 +75,7 @@ https://hosts-file.net/ad_servers.txt
 # ✔ Steven Blacks Unchecky Ads
 #https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
 
+
 ##----------------------------------------------------------------------------##
 ## Tracking & Telemetry Lists:                                                ##
 ##
@@ -104,6 +106,7 @@ https://hosts-file.net/ad_servers.txt
 
 # Samsung SmartTV Domains
 #http://v.firebog.net/hosts/static/SamsungSmart.txt
+
 
 ##----------------------------------------------------------------------------##
 ## Malicious Lists:                                                           ##
