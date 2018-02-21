@@ -24,7 +24,7 @@ Armbian-config offers an option to install Pihole but I did not test it.
 After Pihole installation I downloaded and modified my adlists.list file, enabling most of the extra sources:
 
 `$ wget https://raw.githubusercontent.com/archphile/pihole_stuff/master/adlists.list -O /etc/pihole/adlists.list`
-
+`$ pihole -g`
 
 Finally some Odroid related stuff:
 
