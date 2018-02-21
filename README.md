@@ -6,6 +6,14 @@ I am currently using:
 - Armbian Ubuntu xenial: https://dl.armbian.com/odroidc1/Ubuntu_xenial_default.7z
 - Pihole
 
+For the basic Armbian stuff (static ip, hostname, timezone etc) I run:
+
+`$ armbian-config`
+
+Although the above tool can update the system, I always prefer to do it manually:
+
+`$ apt-get update && apt-get upgrade`
+
 In order to install Pihole I did the following:
 
 `$ wget -O basic-install.sh https://install.pi-hole.net` <br>
