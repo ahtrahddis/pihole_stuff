@@ -1,4 +1,4 @@
-# Telemetry list for xiaomi devices - to be used with Adaway
+# Telemetry list for xiaomi devices - Can also be used with Adaway
 127.0.0.1  localhost
 ::1  localhost
 
