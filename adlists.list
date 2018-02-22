@@ -151,24 +151,26 @@ https://hosts-file.net/ad_servers.txt
 # ✔ Ransomware Tracker
 #https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
 
-# Shalla Malicious
+# ✔ Shalla Malicious
 #http://v.firebog.net/hosts/Shalla-mal.txt
 
-# Steven Blacks Risky Hosts
+# ✔ Steven Blacks Risky Hosts
 #https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Risk/hosts
 
 # ✔ Zeus Tracker
 #https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+
+# ✔ CoinBlocker
+#https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 
 ##----------------------------------------------------------------------------##
 ## Testing Section:                                                           ##
 ##
 
 # Testing
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
-https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
-https://adblock.mahakala.is/
-https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
+#https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+#https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
+#https://adblock.mahakala.is/
 
 # Testing Porn
 #https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
