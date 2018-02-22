@@ -160,4 +160,16 @@ https://hosts-file.net/ad_servers.txt
 # ✔ Zeus Tracker
 #https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 
+##----------------------------------------------------------------------------##
+## Testing Section:                                                           ##
+##
 
+# Testing
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews/hosts
+https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
+https://adblock.mahakala.is/
+https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
+
+# Testing Porn
+#https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
+#https://raw.githubusercontent.com/chadmayfield/pihole-blocklists/master/lists/pi_blocklist_porn_top1m.list
