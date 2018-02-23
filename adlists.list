@@ -21,18 +21,14 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 ##Hosts-file.net
 https://hosts-file.net/ad_servers.txt
 
-##----------------------------------------------------------------------------##
-##----------------------------------------------------------------------------##
-
-## Additional lists taken from:
-## https://wally3k.github.io
-## and
-## https://raw.githubusercontent.com/deathbybandaid/wally3k-adlists.list/master/adlists.list
+#-------------------------------------------------------------------------------------------------------#
+## Additional lists taken from: https://wally3k.github.io
+#-------------------------------------------------------------------------------------------------------#
 
 
-##----------------------------------------------------------------------------##
-## Suspicious lists:                                                          ##
-##
+#----------------------------------------------------------------------------#
+# Suspicious lists:                                                          
+#----------------------------------------------------------------------------#
 
 # ✔ Grm
 https://hosts-file.net/grm.txt
@@ -50,9 +46,9 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 https://v.firebog.net/hosts/static/w3kbl.txt
 
 
-##----------------------------------------------------------------------------##
-## Advertising Lists:                                                         ##
-##
+#----------------------------------------------------------------------------#
+# Advertising Lists:                                                        
+#----------------------------------------------------------------------------#
 
 # ✔ AdAway
 https://adaway.org/hosts.txt
@@ -73,9 +69,9 @@ http://v.firebog.net/hosts/Easylist.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
 
 
-##----------------------------------------------------------------------------##
-## Tracking & Telemetry Lists:                                                ##
-##
+#----------------------------------------------------------------------------#
+# Tracking & Telemetry Lists:                                                        
+#----------------------------------------------------------------------------#
 
 # ✔ Airelle Trackers
 http://v.firebog.net/hosts/Airelle-trc.txt
@@ -102,9 +98,9 @@ https://raw.githubusercontent.com/WindowsLies/BlockWindows/master/hosts
 http://v.firebog.net/hosts/static/SamsungSmart.txt
 
 
-##----------------------------------------------------------------------------##
-## Malicious Lists:                                                           ##
-##
+#----------------------------------------------------------------------------#
+# Malicious Lists:                                                        
+#----------------------------------------------------------------------------#
 
 # ✔ Airelle High Risk
 http://v.firebog.net/hosts/Airelle-hrsk.txt
@@ -158,9 +154,9 @@ https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 
 
-##----------------------------------------------------------------------------##
-## Porn Related:                                                              ##
-##
+#----------------------------------------------------------------------------#
+# Porn Related Lists:                                                        
+#----------------------------------------------------------------------------#
 
 #✔ Porn All
 #https://github.com/chadmayfield/pihole-blocklists/raw/master/lists/pi_blocklist_porn_all.list
