@@ -21,8 +21,9 @@ https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 ##Hosts-file.net
 https://hosts-file.net/ad_servers.txt
 
+
 #-------------------------------------------------------------------------------------------------------#
-# Additional lists taken from: https://wally3k.github.io
+# Additional lists (most of them) taken from: https://wally3k.github.io
 #-------------------------------------------------------------------------------------------------------#
 
 
@@ -160,6 +161,7 @@ https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 
 # ✔ Thepenguin.eu Xiaomi
 http://thepenguin.eu/download/tp-xiaomi-adblock.txt
+
 
 #----------------------------------------------------------------------------#
 # Porn Related Lists:                                                        
