@@ -28,4 +28,4 @@ After Pihole installation I downloaded and modified my adlists.list file, enabli
 
 Finally some Odroid related stuff:
 
-`$ wgethttps://raw.githubusercontent.com/archphile/pihole_stuff/master/rc.local-odroid-c1 -O /etc/rc.local`
+`$ wget thttps://raw.githubusercontent.com/archphile/pihole_stuff/master/rc.local-odroid-c1 -O /etc/rc.local`
