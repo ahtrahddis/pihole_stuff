@@ -26,15 +26,6 @@
 127.0.0.1 graph.instagram.com
 127.0.0.1 s.youtube.com
 ##-----------------------------------------------------
-## Blocked by Ublock Origin
-##-----------------------------------------------------
-# flickr
-127.0.0.1 radar.cedexis.com
-127.0.0.1 sb.scorecardresearch.com
-127.0.0.1 geo.yahoo.com
-127.0.0.1 lh.secure.yahoo.com
-127.0.0.1 googleads.g.doubleclick.net
-##-----------------------------------------------------
 ## Telemetry and Adblock list for xiaomi devices 
 ##-----------------------------------------------------
 # xiaomi.com/net domain
