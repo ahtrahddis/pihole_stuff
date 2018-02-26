@@ -3,7 +3,7 @@
 # license: CC BY-NC-SA 
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
 #
-# If you want to suggest any change, feel free to fork the following project:
+# If you want to suggest any change, feel free to fork the following repository:
 # https://github.com/archphile/pihole_stuff
 # and send me your pull request.
 
