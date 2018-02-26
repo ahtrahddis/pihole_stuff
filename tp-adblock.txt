@@ -2,6 +2,10 @@
 # http://thepenguin.eu/download/tp-adblock.txt
 # license: CC BY-NC-SA 
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
+#
+# If you want to suggest any change, feel free to fork the following project:
+# https://github.com/archphile/pihole_stuff
+# and send me your pull request.
 
 127.0.0.1  localhost
 ::1  localhost
