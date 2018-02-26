@@ -1,0 +1,17 @@
+# In order to use this list, please use the following address:
+# http://thepenguin.eu/download/tp-adblock.txt
+# license: CC BY-NC-SA 
+# https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1 brahe.apptimize.com
+127.0.0.1 e.crashlytics.com
+127.0.0.1 app-measurement.com
+127.0.0.1 fls-na.amazon.com
+127.0.0.1 pageview.goroost.com
+127.0.0.1 yield-manager.browsiprod.com
+127.0.0.1 cdn.userreport.com
+127.0.0.1 static.ads-twitter.com
+127.0.0.1 tag.aticdn.net
