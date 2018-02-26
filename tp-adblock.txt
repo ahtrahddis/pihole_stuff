@@ -25,6 +25,7 @@
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 graph.instagram.com
 127.0.0.1 api.mixpanel.com
+127.0.0.1 telemetry.api.swiftkey.com
 ##
 ## Telemetry and Adblock list for xiaomi devices 
 ##
