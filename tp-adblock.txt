@@ -10,9 +10,9 @@
 127.0.0.1  localhost
 ::1  localhost
 
-
+##-----------------------------------------------------
 ## Generic
-##
+##-----------------------------------------------------
 127.0.0.1 brahe.apptimize.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 app-measurement.com
@@ -25,9 +25,19 @@
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 graph.instagram.com
 127.0.0.1 s.youtube.com
-##
+##-----------------------------------------------------
+## Blocked by Ublock Origin
+##-----------------------------------------------------
+# flickr
+127.0.0.1 radar.cedexis.com
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 geo.yahoo.com
+127.0.0.1 lh.secure.yahoo.com
+127.0.0.1 googleads.g.doubleclick.net
+##-----------------------------------------------------
 ## Telemetry and Adblock list for xiaomi devices 
-##
+##-----------------------------------------------------
+# xiaomi.com/net domain
 127.0.0.1 abtest.mistat.intl.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 ad.xiaomi.com
@@ -61,6 +71,7 @@
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
+# miui.com domain
 127.0.0.1 api.vip.miui.com
 127.0.0.1 connect.rom.miui.com
 127.0.0.1 tracking.miui.com
