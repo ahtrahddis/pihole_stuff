@@ -7,7 +7,7 @@
 ::1  localhost
 
 
-## Generig
+## Generic
 ##
 127.0.0.1 brahe.apptimize.com
 127.0.0.1 e.crashlytics.com
