@@ -29,3 +29,5 @@ After Pihole installation I downloaded and modified my adlists.list file, enabli
 Finally some Odroid related stuff:
 
 `$ wget https://raw.githubusercontent.com/archphile/pihole_stuff/master/rc.local-odroid-c1 -O /etc/rc.local`
+
+`$ wget https://raw.githubusercontent.com/archphile/pihole_stuff/master/log2ram -O /etc/default/log2ram`
