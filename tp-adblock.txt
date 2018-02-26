@@ -22,6 +22,9 @@
 127.0.0.1 cdn.userreport.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 tag.aticdn.net
+127.0.0.1 mobile.pipe.aria.microsoft.com
+127.0.0.1 graph.instagram.com
+127.0.0.1 api.mixpanel.com
 ##
 ## Telemetry and Adblock list for xiaomi devices 
 ##
