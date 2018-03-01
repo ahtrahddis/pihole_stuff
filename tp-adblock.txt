@@ -25,6 +25,9 @@
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 graph.instagram.com
 127.0.0.1 s.youtube.com
+127.0.0.1 l2.visiblemeasures.com
+127.0.0.1 connect.facebook.net
+127.0.0.1 telemetry.api.swiftkey.com
 ##-----------------------------------------------------
 ## Telemetry and Adblock list for xiaomi devices 
 ##-----------------------------------------------------
@@ -79,3 +82,5 @@
 127.0.0.1 mazu.sec.miui.com
 127.0.0.1 metok.sys.miui.com
 127.0.0.1 r.browser.miui.com
+# other xiaomi domains
+127.0.0.1 resolver.gslb.mi-idc.com
