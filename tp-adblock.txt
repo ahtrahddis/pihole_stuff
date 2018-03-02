@@ -13,33 +13,32 @@
 ##-----------------------------------------------------
 ## Generic
 ##-----------------------------------------------------
-127.0.0.1 brahe.apptimize.com
-127.0.0.1 e.crashlytics.com
-127.0.0.1 app-measurement.com
-127.0.0.1 fls-na.amazon.com
-127.0.0.1 pageview.goroost.com
-127.0.0.1 yield-manager.browsiprod.com
-127.0.0.1 cdn.userreport.com
-127.0.0.1 static.ads-twitter.com
-127.0.0.1 tag.aticdn.net
-127.0.0.1 mobile.pipe.aria.microsoft.com
-127.0.0.1 graph.instagram.com
-127.0.0.1 s.youtube.com
-127.0.0.1 l2.visiblemeasures.com
-127.0.0.1 connect.facebook.net
-127.0.0.1 telemetry.api.swiftkey.com
-127.0.0.1 sync.adotmob.com
-127.0.0.1 sync.search.spotxchange.com
+127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 amp-error-reporting.appspot.com
+127.0.0.1 app-measurement.com
+127.0.0.1 bidder.criteo.com
+127.0.0.1 brahe.apptimize.com
+127.0.0.1 browser-update.com
+127.0.0.1 cdn.userreport.com
+127.0.0.1 connect.facebook.net
+127.0.0.1 delivery.adrecover.com
 127.0.0.1 delivery.g.switchadhub.com
 127.0.0.1 delivery.swid.switchadhub.com
+127.0.0.1 e.crashlytics.com
+127.0.0.1 fls-na.amazon.com
+127.0.0.1 graph.instagram.com
+127.0.0.1 l2.visiblemeasures.com
+127.0.0.1 mobile.pipe.aria.microsoft.com
+127.0.0.1 pageview.goroost.com
+127.0.0.1 static.ads-twitter.com
+127.0.0.1 sync.adotmob.com
+127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 s.pubmine.com
-127.0.0.1 x.bidswitch.com
-127.0.0.1 aax.amazon-adsystem.com
-127.0.0.1 bidder.criteo.com
+127.0.0.1 s.youtube.com
+127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 telemetry.malwarebytes.com
-127.0.0.1 delivery.adrecover.com
-127.0.0.1 browser-update.com
+127.0.0.1 yield-manager.browsiprod.com
+127.0.0.1 x.bidswitch.com
 ##-----------------------------------------------------
 ## Telemetry and Adblock list for xiaomi devices 
 ##-----------------------------------------------------
