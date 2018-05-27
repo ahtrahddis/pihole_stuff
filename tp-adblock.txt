@@ -19,6 +19,7 @@
 127.0.0.1 amp-error-reporting.appspot.com
 127.0.0.1 analytics.slashdotmedia.com
 127.0.0.1 api.branch.io
+127.0.0.1 app.adjust.com
 127.0.0.1 app-measurement.com
 127.0.0.1 bidder.criteo.com
 127.0.0.1 brahe.apptimize.com
