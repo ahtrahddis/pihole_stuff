@@ -55,6 +55,7 @@
 127.0.0.1 prebid.districtm.ca
 127.0.0.1 redirector.gvt1.com
 127.0.0.1 reports.crashlytics.com
+127.0.0.1 sb.voicefive.com
 127.0.0.1 secure statcounter.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 static.adman.gr
@@ -62,9 +63,11 @@
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 sync.adotmob.com
 127.0.0.1 sync.search.spotxchange.com
+127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 s22.cnzz.com
 127.0.0.1 s.pubmine.com
 127.0.0.1 s.youtube.com
+127.0.0.1 tag.aticdn.net
 127.0.0.1 tags.w55c.net
 127.0.0.1 tag.mtrcs.samba.tv
 127.0.0.1 telemetry.api.swiftkey.com
