@@ -8,26 +8,33 @@ I am currently using:
 
 For the basic Armbian stuff (static ip, hostname, timezone etc) I run:
 
-`$ armbian-config`
+	armbian-config
 
 Although the above tool can update the system, I always prefer to do it manually:
 
-`$ apt-get update && apt-get upgrade`
+apt-get update && apt-get upgrade
 
 In order to install Pihole I did the following:
 
-`$ wget -O basic-install.sh https://install.pi-hole.net` <br>
-`$ bash basic-install.sh`
+	wget -O basic-install.sh https://install.pi-hole.net
+	bash basic-install.sh
 
 Armbian-config offers an option to install Pihole but I did not test it.
 
 After Pihole installation I downloaded and modified my adlists.list file, enabling most of the extra sources:
 
-`$ wget https://raw.githubusercontent.com/archphile/pihole_stuff/master/adlists.list -O /etc/pihole/adlists.list` <br>
-`$ pihole -g`
+	wget https://raw.githubusercontent.com/archphile/pihole_stuff/master/adlists.list -O /etc/pihole/adlists.list
+	pihole -g
 
 Finally some Odroid related stuff:
 
-`$ wget https://raw.githubusercontent.com/archphile/pihole_stuff/master/rc.local-odroid-c1 -O /etc/rc.local`
+	wget https://raw.githubusercontent.com/archphile/pihole_stuff/master/rc.local-odroid-c1 -O /etc/rc.local
 
-`$ wget https://raw.githubusercontent.com/archphile/pihole_stuff/master/log2ram -O /etc/default/log2ram`
+and
+
+	wget https://raw.githubusercontent.com/archphile/pihole_stuff/master/log2ram -O /etc/default/log2ram
+	
+
+For tp-adblock.txt file, please read the following link
+
+http://thepenguin.eu/2018-05-27-an-adblock-list-for-rooted-xiaomi-smartphones/
