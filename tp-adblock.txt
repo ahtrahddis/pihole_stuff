@@ -22,6 +22,7 @@
 127.0.0.1 api.branch.io
 127.0.0.1 app.adjust.com
 127.0.0.1 app-measurement.com
+127.0.0.1 atlanticmedia.122.2o7.net
 127.0.0.1 bidder.criteo.com
 127.0.0.1 brahe.apptimize.com
 127.0.0.1 browser-update.com
@@ -54,12 +55,16 @@
 127.0.0.1 pageview.goroost.com
 127.0.0.1 prebid.districtm.ca
 127.0.0.1 redirector.gvt1.com
+127.0.0.1 register.appsflyer.com
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 sb.voicefive.com
 127.0.0.1 secure statcounter.com
 127.0.0.1 settings.crashlytics.com
+127.0.0.1 speee-ad.akamaized.net
 127.0.0.1 static.adman.gr
 127.0.0.1 static.ads-twitter.com
+127.0.0.1 stat.airdroid.com
+127.0.0.1 stat3.airdroid.com
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 sync.adotmob.com
 127.0.0.1 sync.search.spotxchange.com
