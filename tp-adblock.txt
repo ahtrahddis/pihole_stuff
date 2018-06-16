@@ -14,6 +14,7 @@
 ## Generic
 ##-----------------------------------------------------
 127.0.0.1 aax.amazon-adsystem.com
+127.0.0.1 adbrau.com
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 ads.viber.com
 127.0.0.1 adwords.google.com
@@ -24,6 +25,7 @@
 127.0.0.1 app-measurement.com
 127.0.0.1 atlanticmedia.122.2o7.net
 127.0.0.1 bidder.criteo.com
+127.0.0.1 bonfire.spklw.com
 127.0.0.1 brahe.apptimize.com
 127.0.0.1 browser-update.com
 127.0.0.1 b.hatena.ne.jp
@@ -53,6 +55,8 @@
 127.0.0.1 l2.visiblemeasures.com
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 pageview.goroost.com
+127.0.0.1 pings.vidpulse.com
+127.0.0.1 public-prod-dspcookiematching.dmxleo.com
 127.0.0.1 prebid.districtm.ca
 127.0.0.1 redirector.gvt1.com
 127.0.0.1 register.appsflyer.com
