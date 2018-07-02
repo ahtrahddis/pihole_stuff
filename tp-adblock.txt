@@ -104,6 +104,7 @@
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 file.market.xiaomi.com
+127.0.0.1 fr.app.chat.global.xiaomi.net
 127.0.0.1 game.xiaomi.com
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
