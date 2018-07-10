@@ -47,6 +47,7 @@
 127.0.0.1 gate.hockeyapp.net
 127.0.0.1 graph.instagram.com
 127.0.0.1 idgenterprise.dl.sc.omtrdc.net
+127.0.0.1 incoming.telemetry.mozilla.org
 127.0.0.1 kinja.com
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 labs-cdn-revcontent.com
@@ -93,6 +94,7 @@
 127.0.0.1 app.chat.xiaomi.net
 127.0.0.1 api.admob.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 api.d.xiaomi.com
 127.0.0.1 api.miui.security.xiaomi.com
 127.0.0.1 a.stat.xiaomi.com
@@ -122,6 +124,7 @@
 127.0.0.1 test.new.api.ad.xiaomi.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
 # miui.com domain
+127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 api.sec.intl.miui.com
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 api.vip.miui.com
