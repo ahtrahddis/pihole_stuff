@@ -31,6 +31,9 @@ https://hosts-file.net/ad_servers.txt
 # Suspicious lists:                                                          
 #----------------------------------------------------------------------------#
 
+# ✔ Cameleon
+http://sysctl.org/cameleon/hosts
+s
 # ✔ Grm
 https://hosts-file.net/grm.txt
 
@@ -46,6 +49,11 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/data/add.Spam/hosts
 # ✔ W3kbl
 https://v.firebog.net/hosts/static/w3kbl.txt
 
+# ✔ W3kbl
+https://v.firebog.net/hosts/static/w3kbl.txt
+
+# ✔ Bill Stearns
+https://v.firebog.net/hosts/BillStearns.txt
 
 #----------------------------------------------------------------------------#
 # Advertising Lists:                                                        
@@ -60,17 +68,20 @@ http://v.firebog.net/hosts/AdguardDNS.txt
 # ✔ Disconnect Ads
 https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 
-# ✔ hpHosts Ads/Trackers
-https://hosts-file.net/ad_servers.txt
-
 # ✔ Easylist
 http://v.firebog.net/hosts/Easylist.txt
 
+# ✔ hpHosts Ads/Trackers
+https://hosts-file.net/ad_servers.txt
+
 # ✔ Spotify Ad Free
-https://raw.githubusercontent.com/CHEF-KOCH/Spotify-Ad-free/master/Spotifynulled.txt 
+https://raw.githubusercontent.com/CHEF-KOCH/CKs-FilterList/master/HOSTS/CK's-Spotify-HOSTS-FilterList.txt
 
 # ✔ Steven Blacks Unchecky Ads
 https://raw.githubusercontent.com/StevenBlack/hosts/master/data/UncheckyAds/hosts
+
+# ✔ Yoyo
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts;showintro=0
 
 
 #----------------------------------------------------------------------------#
