@@ -35,6 +35,6 @@ and
 	wget https://raw.githubusercontent.com/archphile/pihole_stuff/master/log2ram -O /etc/default/log2ram
 	
 
-For tje tp-adblock.txt file, please read the following link:
+For the tp-adblock.txt file, please read the following link:
 
 http://thepenguin.eu/2018-05-27-an-adblock-list-for-rooted-xiaomi-smartphones/
