@@ -16,6 +16,7 @@
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 adbrau.com
 127.0.0.1 acdn.adnxs.com
+127.0.0.1 ads.reembed.com
 127.0.0.1 ads.viber.com
 127.0.0.1 adwords.google.com
 127.0.0.1 amp-error-reporting.appspot.com
@@ -66,6 +67,7 @@
 127.0.0.1 secure statcounter.com
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 speee-ad.akamaized.net
+127.0.0.1 static.addtoany.com
 127.0.0.1 static.adman.gr
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 stat.airdroid.com

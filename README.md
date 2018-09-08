@@ -3,16 +3,28 @@ Files and stuff from my Pihole implementation.
 I am currently using:
 
 - Odroid C1+
-- Armbian Ubuntu xenial: https://dl.armbian.com/odroidc1/Ubuntu_xenial_default.7z
+- Armbian ~~Ubuntu xenial~~ Debian Jessie: https://dl.armbian.com/odroidc1/Debian_jessie_default.7z
 - Pihole
 
-For the basic Armbian stuff (static ip, hostname, timezone etc) I run:
+For the basic Armbian stuff (static ip, hostname, timezone etc) you can run:
 
 	armbian-config
 
-Although the above tool can update the system, I always prefer to do it manually:
 
-apt-get update && apt-get upgrade
+What I Sdid was:
+
+1. configured a static IP network:
+
+	nano /etc/network/interfaces
+
+2. changed default SSH port
+
+	nano /etc/ssh/sshd_config
+	
+3. updated OS
+
+	apt-get update && apt-get dist-upgrade
+	
 
 In order to install Pihole I did the following:
 
