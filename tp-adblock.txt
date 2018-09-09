@@ -130,7 +130,7 @@
 127.0.0.1 api.sec.intl.miui.com
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 api.vip.miui.com
-#127.0.0.1 connect.rom.miui.com
+127.0.0.1 connect.rom.miui.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 adv.sec.miui.com
