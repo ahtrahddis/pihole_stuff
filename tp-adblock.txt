@@ -124,6 +124,7 @@
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 test.new.api.ad.xiaomi.com
+127.0.0.1 us.find.api.micloud.xiaomi.net
 127.0.0.1 zeus.ad.intl.xiaomi.com
 # miui.com domain
 127.0.0.1 adv.sec.intl.miui.com
