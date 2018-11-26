@@ -64,6 +64,7 @@
 127.0.0.1 pageview.goroost.com
 127.0.0.1 pings.vidpulse.com
 127.0.0.1 public-prod-dspcookiematching.dmxleo.com
+127.0.0.1 prd-collector-anon.playbuzz.com
 127.0.0.1 prebid.districtm.ca
 127.0.0.1 redirector.gvt1.com
 127.0.0.1 register.appsflyer.com
@@ -89,9 +90,10 @@
 127.0.0.1 tag.mtrcs.samba.tv
 127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 telemetry.malwarebytes.com
-127.0.0.1 yield-manager.browsiprod.com
+127.0.0.1 venetia.iad.appboy.com
 127.0.0.1 x.appbaqend.com
 127.0.0.1 x.bidswitch.com
+127.0.0.1 yield-manager.browsiprod.com
 ##-----------------------------------------------------
 ## Telemetry and Adblock list for xiaomi devices 
 ##-----------------------------------------------------
