@@ -1,0 +1,35 @@
+# In order to use this list, please use the following address:
+# http://thepenguin.eu/download/gr-adblock.txt
+# license: CC BY-NC-SA 
+# https://creativecommons.org/licenses/by-nc-sa/4.0/
+#
+# If you want to suggest any change, feel free to fork the following repository:
+# https://github.com/archphile/pihole_stuff
+# and send me your pull request.
+#
+# This list was initially based on the following one:
+# https://github.com/deathbybandaid/piholeparser/blob/master/Subscribable-Lists/ParsedBlacklists/Greek-AdBlock-Filter.txt
+
+
+127.0.0.1  localhost
+::1  localhost
+	
+##-----------------------------------------------------
+## Greece
+##-----------------------------------------------------
+127.0.0.1 ad.gr.doubleclick.net
+127.0.0.1 ad2.linkwise.gr
+127.0.0.1 ads.24media.gr
+127.0.0.1 ads.naftemporiki.gr
+127.0.0.1 axiabanners.exodus.gr
+127.0.0.1 call.theowl.gr
+127.0.0.1 clickbanner.gr
+127.0.0.1 educate.theowl.gr
+127.0.0.1 furious.adman.gr
+127.0.0.1 gpoint.gpoint.com.gr
+127.0.0.1 media.mybet.com
+127.0.0.1 obj.adman.gr
+127.0.0.1 promo.gpoint.com.gr
+127.0.0.1 promos.pathfinder.gr
+127.0.0.1 static.adman.gr
+127.0.0.1 switch.statman.gr
