@@ -22,6 +22,7 @@
 127.0.0.1 adwords.google.com
 127.0.0.1 amp-error-reporting.appspot.com
 127.0.0.1 analytics.slashdotmedia.com
+127.0.0.1 api.adsnative.com
 127.0.0.1 api.branch.io
 127.0.0.1 app.adjust.com
 127.0.0.1 app-measurement.com
@@ -47,6 +48,7 @@
 127.0.0.1 e.crashlytics.com
 127.0.0.1 e.reddit.com
 127.0.0.1 fastlane.rubiconproject.com
+127.0.0.1 feed.mikle.com
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 gate.hockeyapp.net
 127.0.0.1 graph.instagram.com
@@ -73,6 +75,7 @@
 127.0.0.1 sb.voicefive.com
 127.0.0.1 secure statcounter.com
 127.0.0.1 settings.crashlytics.com
+127.0.0.1 silktide.com
 127.0.0.1 speee-ad.akamaized.net
 127.0.0.1 static.addtoany.com
 127.0.0.1 static.adman.gr
