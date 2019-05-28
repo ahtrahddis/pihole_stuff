@@ -66,6 +66,7 @@
 127.0.0.1 public-prod-dspcookiematching.dmxleo.com
 127.0.0.1 prd-collector-anon.playbuzz.com
 127.0.0.1 prebid.districtm.ca
+127.0.0.1 profile.localytics.com
 127.0.0.1 redirector.gvt1.com
 127.0.0.1 register.appsflyer.com
 127.0.0.1 reports.crashlytics.com
