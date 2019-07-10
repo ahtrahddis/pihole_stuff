@@ -1,4 +1,4 @@
-Files and stuff from my Pihole implementation.
+Files and stuff from my old Pihole implementation.
 
 I am currently using:
 
